@@ -1,0 +1,16 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.db
+*.db-shm
+*.db-wal
+
+## Rider / VS Code
+.idea/
+.vscode/
+
+## Test results
+TestResults/
